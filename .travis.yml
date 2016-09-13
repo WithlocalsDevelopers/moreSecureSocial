@@ -1,3 +1,8 @@
 language: scala
+jdk:
+- oraclejdk8
 scala:
-   - 2.11.7
+- 2.11.7
+env:
+  global:
+    secure: esDOmcsAZvDZ20KkIOyijHXwiUGKkwiSqT1kKBjmjVh6ljen0RaylAbP8d/FCCvoqTnElv1mYfHmc0QsJwZhBV65ZDhM0XgcegLV8Q30U0k/gr8qKHav5UBOXxFz1Ye4JA/fsbnI5OmZx5NJ5o+B0M8TFHUcWb1mH78JU0JS/tfpykMqjPtC1YX2CGFhqgXEz3hiILIcoxdB8X/x+dAwtKWn0PYvFH6tAZ+RIO9/atw+ep4+cZ2kACwxOCQGZ6YqksCqi7VQAYRXXnTM8aF3ZupyydWg2u+BRLD+IGYfU9j1g6F7QESAukwRGhagwkD++oQL20+iJNWXMbLZXyr2TT3iBoZap5MdXbxdQOviwQJvxCg8kEonqinw6hCCIxCvZdJ1ZKOS+w19nBXs4rx9IVsiVLPzDGQlfdN9PZrPJh0v67Av+nuKsXm6ReGArzQX0O5YhGJe5vg0b/ZSx0zW+rnuH8ZGB1GaSnlnynXXBFu8JO0SrlhubhDp5NQ/7DlI7OErhidA2K50+lYwG8jC8xG+PpZoD85S9aSZtHWby+xFV6XFb2Rl4gPwCktIfraIfrtlLLTJKDisJ6z1SjPoMPt7c3j0AZpzhMEA6DIfuJRia0sliySaIytbKKimRoMiduj5p8bDV1FHXenuFIJpRcNd/sxKE8BjdIl59hu4QBw=
